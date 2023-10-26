@@ -1,4 +1,4 @@
-# SamsungNP-730QCJ-KO2US MacOS Sonoma
+# Samsung NP-730QCJ-KO2US MacOS Sonoma
 Hackintosh on my Galaxy Flex a NP-730QCJ-KO2
 
 Intel i7 10510U (Comet Lake)
