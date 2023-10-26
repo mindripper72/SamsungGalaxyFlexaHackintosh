@@ -11,4 +11,6 @@ Intel UHD 630 GPU
 
 Opencore 0.9.6
 
+Everything working except for the touchscreen
+
 
