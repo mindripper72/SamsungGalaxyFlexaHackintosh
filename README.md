@@ -39,7 +39,8 @@ Touchscreen
 
 Handoff
 
-Airdrop
+Airdrop-Turns on but doesnt see devices
+
 
 # Credits
 
