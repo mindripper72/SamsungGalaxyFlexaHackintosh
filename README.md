@@ -13,7 +13,7 @@ Realtec ALC256
 
 Opencore 0.9.6
 
-Everything working except for the touchscreen
+Everything working except for the touchscreen, handoff, and messages.
 
 ![Image 10-22-23 at 1 45 PM](https://github.com/mindripper72/SamsungGalaxyFlexaHackintosh/assets/81028373/0ae25b2f-5f19-4d4c-9cfe-954a9c4935df)
 
